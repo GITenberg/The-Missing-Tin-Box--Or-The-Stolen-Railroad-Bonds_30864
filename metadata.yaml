@@ -1,0 +1,34 @@
+_repo: The-Missing-Tin-Box--Or-The-Stolen-Railroad-Bonds_30864
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30864-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    - Winfield, Arthur M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2010-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Missing Tin Box; Or, The Stolen Railroad Bonds
+url: http://www.gutenberg.org/ebooks/30864
